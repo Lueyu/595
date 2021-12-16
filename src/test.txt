@@ -1,1 +1,600 @@
-1
+translate			can you tell me how to say 'i do not speak much spanish', in spanish
+translate			tell me how to say, 'it is a beautiful morning' in italian
+translate			how do i say 'hotel' in finnish
+translate			please tell me how to ask for a taxi in french
+translate			what is the correct way to say 'i am a visitor' in french
+translate			i would like to know the proper way to greet an adult in portuguese
+translate			how would i say thank you if i were russian
+translate			i would like to know how to say hello in french
+translate			i would i say subway if i were english
+translate			in england how do they say subway
+translate			how is hello said in french
+translate			how would i say if i were english subway
+translate			how could i say twin in chinese
+translate			what do spanish people say for the word cow
+translate			how do you say goodbye in spanish
+translate			could you translate atm machine into english
+translate			how do germans say goodnight
+translate			how do vietnameses people say hello
+translate			what is latin for i love you
+translate			how do i say you're welcome in chinese
+translate			what is hello in french
+translate			what spanish word means hello
+translate			translate english to french hello
+translate			how do they say goodbye in hawaii
+translate			how do you say hello in french
+translate			what do i say for goodbye in hawaii
+translate			how do i say hello in french
+translate			how would they say say goodbye in hawaii
+translate			how would i say hello in french
+translate			what is spanish for good morning
+translate			how would you say can i borrow five dollars in portuguese
+translate			how would i say pleased to meet you if i were japanese
+translate			can you translate i love you into french for me
+translate			how would i say goodbye if i were norwegian
+translate			how would i say hello if i were swedish
+translate			can you translate i have to go pee into korean for me
+translate			how do you say thank you in spanish
+translate			how can i say thank you in spanish
+translate			what is the way to say thank you in spanish
+translate			how do they say "where's the bathroom" in spanish
+translate			how do they say "i love you" in japanese
+translate			how do you say thank you in german
+translate			how do you say cat in spanish
+translate			how do you say i need coffee in dutch
+translate			can you translate cat into russian for me
+translate			how do they say hello in france
+translate			can you translate bat into russian for me
+translate			can you translate hi into spanish for me
+translate			how do they say hello in germany
+translate			how do they say hello in brazil
+transfer			complete a transaction from savings to checking of $20000
+transfer			take $20000 from savings and put it in checking
+transfer			send 100 dollars between bank of the west and bank of america acccounts
+transfer			send 2000 dollars between chase and rabobank accounts
+transfer			send 400 dollars between city bank and usaa accounts
+transfer			transfer $40 from account a to b
+transfer			put $40 from account a to b
+transfer			i need to transfer from this account to that one
+transfer			i would like to transfer from one account to my second one
+transfer			i have to transfer from one account to my other one
+transfer			transfer sixty dollars to dad from my biggest accnt
+transfer			move 57 dollars from saving into mom
+transfer			i need to transfer ten dollars from my bank of america account to my capital one account
+transfer			i must transfer ten dollars from my bank of america account to my capital one account
+transfer			i want you to send ten dollars from bank of america to capital one
+transfer			i have to transfer ten dollars from my bank of america account to my capital one account
+transfer			please send ten dollars from bank of america to capital one
+transfer			please transfer $250 from checking to savings
+transfer			please transfer $100 from my checking to my savings account
+transfer			send money from one account to another
+transfer			transfer $10 from checking to savings
+transfer			please transfer 100 dollars between my amazon payments and savings accounts
+transfer			i want to transfer funds between accounts
+transfer			whats the quickest way to money from one account to another
+transfer			i need you to send 500 dollars from my high tier account to my regular checking account
+transfer			send my money between accounts
+transfer			i need to move money from one account to another
+transfer			send 20 dollars from savings to checking
+transfer			please transfer $50 to my checking account from credit
+transfer			help me move my money
+transfer			help me move my money please
+transfer			move my money please
+transfer			transfer $5 from savings to checking
+transfer			send $5 from savings to checking
+transfer			please switch $s checking to mortage
+transfer			could you transfer $x from saving to checking
+transfer			please transfer $x from checking to saving
+transfer			requesting money transfer between accounts
+transfer			can you transfer money from my account
+transfer			send 100 dollars from checking to savings
+transfer			transfer 100 dollars between checking and savings
+transfer			move 100 dollars from checking to savings
+transfer			time to move some cash from one account to another
+transfer			let's send some money to another account
+transfer			transfer money from one place to another
+transfer			transfer between two accounts
+transfer			send money to another account
+transfer			transfer fifty dollars between my chase and bank of america account
+transfer			put a hundred dollars in my ally account from bluebird
+transfer			can i initiate a one-time transfer from my savings account to my money market account
+timer			please set a timer for 6 minutes
+timer			i need a 7 minute timer
+timer			can you set a timer for me for fifteen minutes starting now
+timer			i would like you to set the timer to go off in ten minutes
+timer			wake me in an hour
+timer			i want a timer set
+timer			set timer for (x) minutes
+timer			please set a timer for me
+timer			i wish to have a 10 minute timer
+timer			set a new timer for ten seconds
+timer			i want a 10 minute timer
+timer			set a 10 minute timer
+timer			set a ten second timer
+timer			set a timer for twelve seconds
+timer			tell me when two minutes are up
+timer			set a timer for two minutes
+timer			can you set a timer for two minutes
+timer			can u please set the timer for 5 minutes
+timer			"can u set a timer for 5 minutes
+timer			please set a timer for 20 minutes
+timer			set a timer for two hours
+timer			set the timer for me please
+timer			i need you to set timer for me
+timer			i would like a timer set
+timer			i need you to set a time
+timer			start a countdown for 20 minutes
+timer			i'll need you to set a timer for 10 minutes
+timer			set a timer for 35 minutes
+timer			let's get a timer going for 10 minutes
+timer			timer 5 minutes
+timer			give me a 10 minute countdown
+timer			i'm cooking an egg, timer for 3 mins
+timer			start a timer for 10 minutes
+timer			count down 10 minutes
+timer			create a timer for me
+timer			i need to set a timer
+timer			could you start a timer for me
+timer			please run a timer for me
+timer			set a five minute timer
+timer			start a timer for me
+timer			set a six minute timer
+timer			i want a timer for 5 minutes
+timer			set a timer to go off in 5 minutes
+timer			i want to set a timer
+timer			please set a timer for
+timer			set an alarm for nine minutes from now
+timer			please set timer for 4 pm
+timer			set 30 minute timer
+timer			please, can you set the timer for me
+timer			will you set the timer
+definition			what is regard mean
+definition			what is it is all relative mean
+definition			what is the meaning of supercede
+definition			what is the definition of incomprehensible
+definition			what is the definition of intelligent
+definition			what is break a leg mean
+definition			what is the definition of valor
+definition			find the meaning of qat
+definition			define qat for me
+definition			look up qat please
+definition			exactly what does altruism mean
+definition			what is the definition of altruism
+definition			affiliate's definition is what
+definition			what's the meaning of affiliate
+definition			definition of affiliate is what
+definition			describe the meaning of "dog
+definition			tell me what the word die means
+definition			what is the meaning of telepathy
+definition			tell me the definition of the word redemption
+definition			what is an ataraxy
+definition			what does ataraxy mean
+definition			define ataraxy
+definition			define discretionary
+definition			can you give the definition of deiscretionary
+definition			what's the definition of analogy
+definition			definition of anachronism
+definition			can you tell me the definition of yttrbium
+definition			what does saffron mean
+definition			define thoroughbred
+definition			what is an anachronism
+definition			tell me what cyst means
+definition			tell me what flange means
+definition			flange means what
+definition			what does "rescind" mean
+definition			is "rescind" a word of positive connotation
+definition			read me the definition of ajar
+definition			can you show me the dictionary definition of ajar
+definition			give me the definition of ajar
+definition			i need to know what adumbrate means can you look it up for me now
+definition			find what the word diaphanous mean please
+definition			find out what the word abrogate means for me
+definition			what does the word abjure mean
+definition			tell me what the word arboreal means
+definition			what is the meaning of the word slander
+definition			tell me what the word bounty means
+definition			define zesty
+definition			definition of zesty
+definition			what does zesty mean
+definition			what does alternative mean
+definition			tell me the meaning of alternative
+meaning_of_life			is being alive the meaning of life
+meaning_of_life			what is the answer to the meaning of life
+meaning_of_life			does life have a meaning
+meaning_of_life			what makes life have any meaning
+meaning_of_life			what's the answer to existence
+meaning_of_life			what's the purpose of existence
+meaning_of_life			what's the point of this dumpster fire known as life
+meaning_of_life			is there a greater purpose in life
+meaning_of_life			how is life in existence
+meaning_of_life			what exactly is the meaning of life
+meaning_of_life			what's the meaning of this life
+meaning_of_life			does my life have meaning
+meaning_of_life			i wanna know the meaning of life
+meaning_of_life			i need to know the point of life
+meaning_of_life			tell the meaning of life
+meaning_of_life			what is your take on the meaning of life
+meaning_of_life			what meaning does life hold
+meaning_of_life			how do i find the meaning of life
+meaning_of_life			what is your version on the meaning of life
+meaning_of_life			what is the purpose of creation
+meaning_of_life			whats your take on the meaning of life
+meaning_of_life			what is life all about
+meaning_of_life			what's the point of life, anyways
+meaning_of_life			the meaning of life
+meaning_of_life			do you know the meaning of life
+meaning_of_life			can you tell me life's meaning
+meaning_of_life			what is the underlying purpose to life
+meaning_of_life			what is life’s meaning
+meaning_of_life			would you tell me the meaning of life, please
+meaning_of_life			can you tell me the meaning of life
+meaning_of_life			can you tell me the meaning of life, please
+meaning_of_life			is there really a meaning of life
+meaning_of_life			what is the meaning of my life
+meaning_of_life			what's the point of everything
+meaning_of_life			why are we here in life
+meaning_of_life			research the meaning of life
+meaning_of_life			what is our purpose here on earth
+meaning_of_life			is there a reason people exist
+meaning_of_life			what does life mean on a deeper level
+meaning_of_life			how would you describe what life means
+meaning_of_life			life has what meaning or what's the secret to it
+meaning_of_life			what is the meaning of this life
+meaning_of_life			what's life's meaning
+meaning_of_life			does this life have a meaning
+meaning_of_life			what do you think is the meaning of life
+meaning_of_life			i wonder if you can explain the meaning of life
+meaning_of_life			what's my meaning in life
+meaning_of_life			meaning of life is
+meaning_of_life			whats the meaning of life
+meaning_of_life			what is behind life's meaning
+insurance_change			website to start aaa new insurance plan
+insurance_change			i want to start a new aaa insurance plan
+insurance_change			what do i do to get new insurance
+insurance_change			how is new insurance gotten
+insurance_change			how do i get new insurance, please
+insurance_change			how can i obtain new insurance, please
+insurance_change			how do i make my insurance policy different
+insurance_change			how do i modify my insurance policy
+insurance_change			how do i get different terms on my insurance policy
+insurance_change			i would like a new insurance plan
+insurance_change			i need a newer insurance plan
+insurance_change			what rental insurance policy do you recommend
+insurance_change			find the best life insurance for me
+insurance_change			i need new health care coverage
+insurance_change			what steps do i need to take to switch my insurance plan from an hmo to a high deductible ppo plan
+insurance_change			how do i go about changing my insurance to a new low monthly premium plan
+insurance_change			help me figure out getting new insurance
+insurance_change			i want help adjusting my insurance policy
+insurance_change			i need help acquiring new insurance
+insurance_change			i am interested in acquiring new insurance
+insurance_change			what must i do if i want to adjust my insurance policy
+insurance_change			i dont like my current insurance plan and want a new one
+insurance_change			i need new insurance but dont know how to get it
+insurance_change			help me modify my insurance policy
+insurance_change			i'd like a new life insurance plan
+insurance_change			i need to get a new motorcycle insurance plan
+insurance_change			where do i go to get new insurance
+insurance_change			how do i apply for new insurance
+insurance_change			can you help me get on a new united healthcare insurance plan
+insurance_change			i'd like to get on a new united healthcare plan
+insurance_change			help make changes to my insurance policy
+insurance_change			i need help to make changes to my insurance policy
+insurance_change			help me make changes to my insurance policy
+insurance_change			i really need to switch to a new insurance plan
+insurance_change			i need to make changes to my insurance policy
+insurance_change			how do i update my insurance
+insurance_change			how can i find out about new insurance
+insurance_change			i need to get new insurance, how do i do it
+insurance_change			i would like to switch to a different insurance plan
+insurance_change			switch my insurance plan to a new one
+insurance_change			i want to shop for new insurance plans
+insurance_change			help me find new insurance providers
+insurance_change			i need a new house insurance plan
+insurance_change			i need new health insurance
+insurance_change			i want a new motorcycle insurance plan
+insurance_change			my insurance policy needs to be adjusted
+insurance_change			walk me through on how to change my insurance
+insurance_change			i would like to alter my insurance plan
+insurance_change			i want to switch my insurance coverage
+insurance_change			how do i replace my insurance
+find_phone			help me figure out where my cell phone is
+find_phone			i can't find my cell and need help locating it
+find_phone			help, i cannot find my phone
+find_phone			are you able to track a phone
+find_phone			i have misplaced my phone
+find_phone			i left my phone somewhere
+find_phone			i need you to find my phone
+find_phone			can you help me find my lost phone
+find_phone			please help me figure out where my lost phone is
+find_phone			i lost my phone, can you help me find it
+find_phone			have you seen my cellphone
+find_phone			find my cellphone
+find_phone			where my phone
+find_phone			can you find my iphone
+find_phone			call my phone, i can't find it
+find_phone			do you know where my phone is
+find_phone			can you call my cellphone
+find_phone			where is my phone
+find_phone			ai, i lost my phone, help me find it please
+find_phone			ai locate my phone
+find_phone			how can i find my phone
+find_phone			i need to locate my phone
+find_phone			help me find my phone
+find_phone			what is the location of my phone
+find_phone			i don't remember where my phone is
+find_phone			the location of my phone is unknown to me
+find_phone			i need to find my phone
+find_phone			please help me locate my phone
+find_phone			can you assist me in locating my phone
+find_phone			i lost my phone and need help retrieving it
+find_phone			misplaced my phone
+find_phone			i need my phone, but can't find it
+find_phone			i don't know where my phone is
+find_phone			please tell me where my phone is
+find_phone			do you know where my phone is located now
+find_phone			where can i find my phone
+find_phone			do you know where i left my phone
+find_phone			alexa, tell me the location of my phone
+find_phone			siri, tell me where my iphone is
+find_phone			help me locate my phone
+find_phone			help me find my cellphone
+find_phone			where did i put my phone
+find_phone			please find my phone
+find_phone			i would like some help finding my phone
+find_phone			i seemed to misplaced my phone
+find_phone			i need some help finding my phone
+find_phone			i don't know where i put my phone
+find_phone			i would like to know where my phone is
+find_phone			i can't locate my phone
+find_phone			can you please locate my phone
+travel_alert			does north korea have any travel alerts i should be aware of
+travel_alert			does spain have any travel alerts i should be aware of
+travel_alert			does macedonia have any travel alerts i should be aware of
+travel_alert			are there any travel alerts for ukraine
+travel_alert			are there any travel alerts for china
+travel_alert			is there a travel alert for scotland
+travel_alert			is it safe to travel to iceland
+travel_alert			does italy have any travel alerts i should be aware of
+travel_alert			is there a travel alert for north korea
+travel_alert			is there a travel alert for canada
+travel_alert			is it safe to travel to bermuda
+travel_alert			does finland have any travel alerts i should be aware of
+travel_alert			have there been any travel alerts issued for france
+travel_alert			are there any travel warnings for london
+travel_alert			are there any new travel warnings for the us
+travel_alert			can you tell me if germany issued any travel warnings
+travel_alert			does spain expect any travel alerts
+travel_alert			i am going to be traveling in turkey, are there any alerts
+travel_alert			what alerts are listed for traveling to paris
+travel_alert			what travel alerts are there in china
+travel_alert			argentina travel alert yes or no
+travel_alert			is there a travel alert in argentina
+travel_alert			can traveling to nepal be safe (what's safe in x)
+travel_alert			how safe is it to travel to mongolia (how safe is mongolia)
+travel_alert			is traveling to dublin safe (will dublin be safe)
+travel_alert			is las vegas a safe place to visit
+travel_alert			can you give me the travel alerts for jalisco, mexico
+travel_alert			are there any travel alerts i should know about for buenos aires, argentina
+travel_alert			are there travel notifications for columbia
+travel_alert			what are today's travel advisories
+travel_alert			where are there current travel alerts
+travel_alert			if i got to indonesia is it safe
+travel_alert			would it be safe to go to columbia
+travel_alert			what potential hazards are there for going to spain
+travel_alert			inform me if there's a travel alert for the country
+travel_alert			i'd like to see if there's a travel alert for the country
+travel_alert			any travel alerts for south korea
+travel_alert			what are the currect travel alerts in africa
+travel_alert			does japan have any travel alerts i should be aware of
+travel_alert			how safe is it to travel to germany
+travel_alert			is it safe to fly to russia
+travel_alert			look for travel alerts for china
+travel_alert			is it dangerous to travel to mexico
+travel_alert			any travel alerts for that country i should know about
+travel_alert			i need to know the travel alerts for kenya
+travel_alert			should i be worried about any travel alerts for that country
+travel_alert			is there a travel alert for that country
+travel_alert			search for any travel alerts for canada
+travel_alert			check travel alerts for kenya
+travel_alert			search for travel alerts for kenya
+pto_request			am i allowed to put in a pto request for now to april
+pto_request			when can i put a pto request in for feb 22 to march 1
+pto_request			on march 1-2 i want a pto request made for me
+pto_request			for march 1 to 2 make a pto request for me
+pto_request			between october 7th and october 10th, i'd like for there to be a pto request for me
+pto_request			let's do a personal pto request for the dates may 12th to may 15th
+pto_request			i'd like for their to be a pto request for me made for the dates june 4th to june 8th
+pto_request			create a pto request for march 21st to march 26th
+pto_request			can you put in a pto request for the 5th of june to june 8th
+pto_request			i need a pto request put in for the weekend of june 1st to june 2nd
+pto_request			put in a pto request for march 4 to march 6
+pto_request			how do i use my vacation days
+pto_request			how can i schedule a vacation request
+pto_request			put in for time off march 4 to march 6
+pto_request			can i take pto form march 4 to march 6
+pto_request			please tell me how to submit a vacation request
+pto_request			i would like to know how to make a vacation request
+pto_request			can you tell me how to make a vacation request
+pto_request			i would like to take a paid time off for february 7 and 8
+pto_request			is it possible for me to take a pto for two days, starting february 7
+pto_request			i want you to make me a pto request for me for april twenty through may two
+pto_request			how can i request a vacation from work
+pto_request			what do i need to do to request vacation time off
+pto_request			what do i need to do if i want to ask for vacation time
+pto_request			how do i ask to have a vacation
+pto_request			i'd like to make a vacation request
+pto_request			how can i make a vacation request
+pto_request			what is the process for requesting a vacation
+pto_request			can i put in a vacation request with you
+pto_request			i need to take some time off, can i have the next week off
+pto_request			i need a pto request for march 3rd and 4th
+pto_request			please put in a pto request for june 5th and 6th
+pto_request			i would like to make a pto request for july 17th and 18th
+pto_request			please place a pto request for february 18th to the february 25th
+pto_request			i need to submit a request for pto for june 12th to june 14th
+pto_request			i'd like to take a vacation day from 2/24 to 2/25
+pto_request			make a pto request from april 2 to april 4
+pto_request			please request pto for me from march 3rd to march 7th
+pto_request			could you submit a pto request for me from dates mar 3 to 9, please
+pto_request			can you submit a pto request for me from dates nov 2 to 10, please
+pto_request			please make a pto request for me from dates jan 21 to begininning of february
+pto_request			please make a pto request from dates september 1 to 15
+pto_request			make a pto request from dates may 3 to 9
+pto_request			how can i go about requesting a vacation
+pto_request			please assist me by making a pto request for march 11-18
+pto_request			create for me a pto request for march 16-21
+pto_request			tell me how to request vacation
+pto_request			i need help making a pto request for march 3-10
+pto_request			can i request pto from march 9-16
+pto_request			i want help making a pto request for february 22-27
+improve_credit_score			give me a recommendation to improve my credit score
+improve_credit_score			steps to raise my credit score
+improve_credit_score			what are ways to improve my credit
+improve_credit_score			what are some ways to increase my credit
+improve_credit_score			how do i build my credit score
+improve_credit_score			what are ways to improve my credit score
+improve_credit_score			what can i do to improve my credit score
+improve_credit_score			how can i improve my credit score
+improve_credit_score			how to improve my credit score
+improve_credit_score			how to keep my credit up
+improve_credit_score			i want to keep my credit from going down, how do i do this
+improve_credit_score			how do i maintain my credit score
+improve_credit_score			how do i keep good credit
+improve_credit_score			how to build up my credit score
+improve_credit_score			how do i keep my credit from lowering
+improve_credit_score			what can i do to maintain good credit
+improve_credit_score			are there ways for me to make my credit score better
+improve_credit_score			what are some of the ways that i can see an improvement in my credit score
+improve_credit_score			what are some tips to build my credit score
+improve_credit_score			show me some ways to build my credit score
+improve_credit_score			what are some steps to building my credit score
+improve_credit_score			tell me all the ways my credit score can get hurt
+improve_credit_score			i want to find out if this will hurt my credit
+improve_credit_score			i want to know if opening a new account will decrease my credit score
+improve_credit_score			is it true that opening a new account can decrease your credit score
+improve_credit_score			tell me if opening a new account will decrease my credit score
+improve_credit_score			how can i protect my credit rating
+improve_credit_score			what are some ways to keep my credit score up
+improve_credit_score			what factors can ruin a credit score
+improve_credit_score			is it possible to lower my credit score by doing this
+improve_credit_score			are there any new harmful things that could affect my credit score
+improve_credit_score			what steps can i take to make sure my credit score doesn't go down
+improve_credit_score			i'd like to improve my credit score
+improve_credit_score			how do i make my credit score better
+improve_credit_score			i'd like to make my credit score better
+improve_credit_score			how do i prevent my credit score from lowering
+improve_credit_score			tell me how to improve my credit score
+improve_credit_score			tell me ways to improve my credit score
+improve_credit_score			does carrying a balance hurt my credit score
+improve_credit_score			does medical debt hurt my credit score
+improve_credit_score			can i hurt my credit score
+improve_credit_score			so how can i hurt my credit score
+improve_credit_score			is it true a hard pull hurts my credit score
+improve_credit_score			can i harm my credit if i miss a car payment
+improve_credit_score			how do i make sure my credit doesn't fall
+improve_credit_score			can i improve my credit score
+improve_credit_score			how do i build credit
+improve_credit_score			how do i improve my credit score
+improve_credit_score			can i protect my credit score
+improve_credit_score			do you know if bouncing one check on your checking account can hurt your credit score or not
+fun_fact			know any interesting facts
+fun_fact			tell me a fact
+fun_fact			any unique trivia about beats headphones
+fun_fact			what is one thing i might not know about nike shoes
+fun_fact			i want to know a fun fact about pluto
+fun_fact			tell me a random fact
+fun_fact			i want to learn an interesting fact about cats
+fun_fact			tell me a few facts about cats
+fun_fact			read me some interesting information about cats
+fun_fact			can you tell me something i don't know about banks
+fun_fact			do you know any fun facts about shampoo
+fun_fact			what's a neat fact about twinkies
+fun_fact			tell me something neat about slinkies
+fun_fact			say trivia about lebron james
+fun_fact			give me some trivia about lebron james
+fun_fact			repeat that fun fact about mt everest
+fun_fact			say a fun fact about mt everest
+fun_fact			explain some trivia about lebron james
+fun_fact			what are fun facts about lighthouses
+fun_fact			tell me interesting facts about lighthouses
+fun_fact			do you know any trivia about the ocean
+fun_fact			i'd like to hear a fun fact about the nfl
+fun_fact			please tell me an interesting tidbit about the roman empire
+fun_fact			do you know any fun facts about the ocean
+fun_fact			can you give me a good piece of trivia about the rainforest
+fun_fact			share with me a fun fact about outer space
+fun_fact			tell me some interesting trivia about dinosaurs
+fun_fact			give me an interesting fact about antarctica
+fun_fact			i want to know some trivia about our solar system
+fun_fact			tell me something cool about elephants
+fun_fact			list some neat stuff about rats
+fun_fact			give me a fun fact about otters
+fun_fact			tell me some trivia about birds
+fun_fact			what's a good fun fact about great britain
+fun_fact			fun facts about tigers
+fun_fact			what's a fun fact about mythology
+fun_fact			what's a cool and interesting thing about dogs
+fun_fact			tell me a fun fact about butterflies
+fun_fact			what is the most fun fact you know about the film industry
+fun_fact			what is the most unique piece of trivia relating to cameras
+fun_fact			tell me some amazing trivia about radios
+fun_fact			please tell me a really fun fact about facebook
+fun_fact			what is an amazing trivia fact relating to 3d printing
+fun_fact			can you tell me a fun fact about elephants
+fun_fact			what would be a fun fact about cats
+fun_fact			i need to know trivia on star wars
+fun_fact			i want to know all about trivia for the office
+fun_fact			lets go threw some trivia on sports
+fun_fact			tell me about something some trivia
+fun_fact			about something,tell me some trivia
+change_language			change and set your language setting to english
+change_language			make your preferred language english
+change_language			please give me your responses only in french from now on
+change_language			i would like to change your language from portuguese to italian
+change_language			what languages can i switch to for your responses
+change_language			i want us to speak to each other in spanish from now on
+change_language			let's speak in mandarin instead of english
+change_language			please change the language that you are responding in
+change_language			i need to switch the language for your responses
+change_language			fix my language to spanish
+change_language			i need to change my speaking to spanish
+change_language			replace my language to chinese
+change_language			change your language to spanish please
+change_language			please respond to me in spanish
+change_language			i would appreciate it if you could talk to me in french
+change_language			can we talk in french
+change_language			can you speak to me in french
+change_language			talk to me in italian from now on
+change_language			can you talk to me in french
+change_language			can i start talking to you in spanish
+change_language			can you understand me, if i start talking in italian
+change_language			can i give you instructions in japanese
+change_language			can you talk to me in chinese
+change_language			i want to use spanish as my language
+change_language			the language i am using will now be italian
+change_language			is there an option to speak only in mandarin
+change_language			i want to edit the language
+change_language			let me talk to you in greek
+change_language			can i speak to you in german
+change_language			i need to change the language to french
+change_language			answer me in french
+change_language			talk to me in italian
+change_language			i need the language set to swahili
+change_language			switch the language setting over to german
+change_language			can you swap the language to afrikaans for me
+change_language			i want you to speak in french
+change_language			can you speak in french
+change_language			change your language setting to german
+change_language			change your language prefrences japanese
+change_language			alter your language choice to dutch
+change_language			can i change your language
+change_language			i want to put you in a different language
+change_language			set default language to english
+change_language			please respond in english
+change_language			change language setting to english
+change_language			i want your language changed to chinese
+change_language			please speak to me in chinese
+change_language			please speak german to me from now on
+change_language			please change your language setting to spanish
+change_language			from now on, i want you to answer me using japanese
