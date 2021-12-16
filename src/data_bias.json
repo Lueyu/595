@@ -1,0 +1,112 @@
+{
+    "insurance": [
+        [
+            "how can i obtain new insurance",
+            "Visit HealthCare.gov to apply for benefits through the ACA Health Insurance Marketplace"
+        ],
+        [
+            "how do i make my insurance policy different",
+            "One of the ways to lower car insurance is through a discount bulk rate for insuring several vehicles and drivers at once."
+        ],
+        [
+            "i would like a new insurance plan",
+            "You might just ask your coworkers what they like, sign up through an online benefits portal"
+        ],
+        [
+            "connect me with some new insurance",
+            "Get information on how to find and sign-up for health insurance"
+        ],
+        [
+            "what rental insurance policy do you recommend",
+            "American family and lemonade are the best policies"
+        ]
+    ],
+    "timer": [
+        [
+            "timer for 5 minutes",
+            "OK. Timer is set."
+        ],
+        [
+            "set a timer to go off in 5 minutes",
+            "Action complete."
+        ],
+        [
+            "how do i set a timer",
+            "pen your phone's Clock app . · At the top, tap Timer. · Enter how long you want the timer to run"
+        ],
+        [
+            "set a six minute timer",
+            "Action complete"
+        ],
+        [
+            "set a one minute timer",
+            "Your timer is set"
+        ]
+    ],
+    "transfer": [
+        [
+            "transfer money to another account",
+            "Western Union makes it easy to send money online"
+        ],
+        [
+            "money transfer request",
+            "Generally, wire transfers are accepted world-wide"
+        ],
+        [
+            "can you transfer money from my account",
+            "yes, i would like to"
+        ],
+        [
+            "send 100 dollars from checking to savings",
+            "I have no power to do that"
+        ],
+        [
+            "transfer 100 dollars checking to savings",
+            "Action complete"
+        ]
+    ],
+    "translate": [
+        [
+            "how do they say \"where's the bathroom\" in spanish",
+            "dónde está el baño"
+        ],
+        [
+            "how do they say \"who is your father\" in german",
+            "Wer ist dein Vater."
+        ],
+        [
+            "what is thank you in spanish",
+            "gracias"
+        ],
+        [
+            "how do you say thank you in spanish",
+            "gracias"
+        ],
+        [
+            "can you translate good bye into russian for me",
+            "до свидания"
+        ]
+    ],
+    "definition": [
+        [
+            "define the concept of math",
+            "A math concept is the 'why' or 'big idea' of math"
+        ],
+        [
+            "define the solar system",
+            "the collection of eight planets and their moons in orbit around the sun, together with smaller bodies"
+        ],
+        [
+            "define the milky way",
+            "The meaning of Milky Way galaxy is the galaxy of which the sun and the solar system are a part"
+        ],
+        [
+            "define university",
+            "The meaning of university is an institution of higher learning providing facilities for teaching and research and authorized to grant academic degrees"
+        ],
+        [
+            "what is the definition of business",
+            "a person's regular occupation, profession, or trade"
+        ]
+    ]
+}
